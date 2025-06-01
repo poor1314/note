@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Grocery List",
+    "content": "Milk, Bread, Eggs, Butter",
+    "createdAt": "2025-05-30T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Meeting Notes",
+    "content": "Discuss project roadmap and deadlines.",
+    "createdAt": "2025-05-29T15:30:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Ideas",
+    "content": "Learn Node.js, Build a notes app, Explore React.",
+    "createdAt": "2025-05-28T08:45:00Z"
+  }
+]

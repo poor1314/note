@@ -1,0 +1,29 @@
+{
+  "name": "note-app",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/poor1314/note#readme",
+  "bugs": {
+    "url": "https://github.com/poor1314/note/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poor1314/note.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "node": "^22.16.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

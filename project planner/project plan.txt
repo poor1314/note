@@ -1,0 +1,29 @@
+i'm going to write a project
+where user can write, read, delete, update their note
+    1. on the frontend, user have an interface
+        1. create new page to write on
+        2. read from existing note
+            1. optionally update the note
+        3. delete json page
+    
+    2. backend:
+        1. fetch for communication between frontend and backend (need cors?)
+        2. API made to handle http requests
+            1. middleware (skip or use basic)
+            2. rest apis
+            3. routes
+            4. controller (business logic)
+            5. error handling (try/catch & res.status)
+            6. api authentication? (optional)
+            7. api validation? (optional)
+    
+    3. database:
+        1. json as mock database
+
+
+    4. other:
+        1. cors for frontend/backend communication, or any that runs on 
+        different port?
+
+
+Client → Route → notesController → fileHandler → db.json

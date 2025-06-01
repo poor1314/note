@@ -1,0 +1,4 @@
+read/write to json file
+
+1. JSON.stringify() - convert js object to text format
+2. JSON.parse() 
